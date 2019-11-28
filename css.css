@@ -1,0 +1,29 @@
+h1 {
+  border: 5px solid black;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+
+.button{
+background-color: #ADADAD;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inpoute{
+width:50% 
+height=50% 
+}
+
+.bodystyle {
+background-color:#ADADAD;
+}
+
